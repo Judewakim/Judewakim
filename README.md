@@ -3,7 +3,7 @@
 <h2>☁️ Cloud Computing Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Deploy Wordpress in AWS]()
+  - [Deploy Wordpress in AWS](https://github.com/Judewakim/Deploy-Wordpress-in-AWS)
   - [Building a Serverless Web Application]()
 - <b>Terraform</b>
   - [Deploy Webapp on AWS Infrastructure using Terraform]() 
