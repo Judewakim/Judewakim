@@ -3,22 +3,20 @@
 <h2>☁️ Cloud Computing Projects:</h2>
 
 - <b>Amazon Web Services</b>
-  - [Deploy Wordpress in AWS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Deploy Wordpress in AWS]()
+  - [Building a Serverless Web Application]()
 - <b>Terraform</b>
-  - [Deploy Webapp on AWS Infrastructure using Terraform](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Deploy Webapp on AWS Infrastructure using Terraform]() 
 - <b>Cloud Resume Challenge</b>
-  - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC]()
   
 
 <h2>👨‍💻 IT Development Projects:</h2>
 
 - <b>Class Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Banking Database using Java and mySQL]()
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
