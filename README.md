@@ -15,6 +15,7 @@
 
 - <b>Class Projects</b>
   - [Banking Database using Java and mySQL]()
+  - [Casino Games in C]()
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
 - <b>Python</b>
