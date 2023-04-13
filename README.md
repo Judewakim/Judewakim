@@ -4,7 +4,7 @@
 
 - <b>Amazon Web Services</b>
   - [Deploy Wordpress in AWS](https://github.com/Judewakim/Deploy-Wordpress-in-AWS)
-  - [Building a Serverless Web Application](https://github.com/Judewakim/Building-a-Serverless-Web-Application-in-AWS)
+  - [Building a Serverless Web Application](https://github.com/Judewakim/wildrydes-site)
 - <b>Terraform</b>
   - [Deploy Webapp on AWS Infrastructure using Terraform]() 
 - <b>Cloud Resume Challenge</b>
