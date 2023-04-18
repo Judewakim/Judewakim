@@ -19,7 +19,7 @@
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
 - <b>Python</b>
   - [TwillioQuest Pythonic Temple]()
-  - [Python Mini Games]()
+  - [Python Mini Games](https://github.com/Judewakim/Python-Mini-Games)
 
 
 <h2> 🤳 Connect with me:</h2>
