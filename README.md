@@ -18,9 +18,9 @@
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
 - <b>Python</b>
-  - [TwillioQuest Pythonic Temple]()
+  - [Python Mini Labs]()
   - [Python Mini Games](https://github.com/Judewakim/Python-Mini-Games)
-
+  - [TwillioQuest Pythonic Temple]()
 
 <h2> 🤳 Connect with me:</h2>
 
