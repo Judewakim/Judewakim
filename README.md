@@ -5,7 +5,7 @@
 - <b>Amazon Web Services</b>
   - [Deploy Wordpress in AWS](https://github.com/Judewakim/Deploy-Wordpress-in-AWS)
   - [Building a Serverless Web Application](https://github.com/Judewakim/wildrydes-site)
-  - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC(IN PROGRESS)]()
+  - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC (IN PROGRESS)]()
 - <b>Terraform</b>
   - [Deploy Webapp on AWS Infrastructure using Terraform]() 
 
