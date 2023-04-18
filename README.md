@@ -18,7 +18,8 @@
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
 - <b>Python</b>
-  - [Keylogger with Email Capability]()
+  - [TwillioQuest Pythonic Temple]()
+  - [Python Mini Games]()
 
 
 <h2> 🤳 Connect with me:</h2>
