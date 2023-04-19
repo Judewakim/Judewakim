@@ -17,7 +17,6 @@
   - [Casino Games in C]()
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
-  - [Udemy Master Powershell Script]()
 - <b>Python</b>
   - [Python Mini Labs](https://github.com/Judewakim/Python-Mini-Labs)
   - [Python Mini Games](https://github.com/Judewakim/Python-Mini-Games)
