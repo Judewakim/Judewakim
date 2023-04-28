@@ -7,7 +7,7 @@
   - [Building a Serverless Web Application](https://github.com/Judewakim/wildrydes-site)
   - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC (IN PROGRESS)]()
 - <b>Terraform</b>
-  - [Deploy Webapp on AWS Infrastructure using Terraform]() 
+  - [Deploy Webapp on AWS Infrastructure using Terraform](https://github.com/Judewakim/DeployWebsiteOnAWSUsingTerraform) 
 
 
 <h2>👨‍💻 IT Development Projects:</h2>
