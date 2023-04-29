@@ -8,7 +8,7 @@
   - [Deploy a Static Website Hosting a Resume, Integrated with a Database Backend, Connected with Resources Serverless, using Automation and IaC (IN PROGRESS)]()
 - <b>Terraform</b>
   - [Deploy Webapp on AWS Infrastructure using Terraform](https://github.com/Judewakim/DeployWebsiteOnAWSUsingTerraform)
-  - [SSH into a Redeployable AWS EC2 Instance]() 
+  - [SSH into a Redeployable AWS EC2 Instance](https://github.com/Judewakim/SSHRedeployableEC2Instance) 
 
 
 <h2>👨‍💻 IT Development Projects:</h2>
