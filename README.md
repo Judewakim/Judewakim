@@ -19,7 +19,7 @@
 - <b>PowerShell</b>
   - [Active Directory Lab with Powershell](https://github.com/Judewakim/Active-Directory-Lab-using-PowerShell)
 - <b>Kubernetes</b>
-  - [Application Deployment using Kubernetes Components]()
+  - [Application Deployment using Kubernetes Components](https://github.com/Judewakim/AppDeploymentUsingKubernetes)
 - <b>Python</b>
   - [Python Mini Labs](https://github.com/Judewakim/Python-Mini-Labs)
   - [Python Mini Games](https://github.com/Judewakim/Python-Mini-Games)
