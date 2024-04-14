@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jude! <br/><a href="https://github.com/Judewakim">Cloud Computing</a>, <a href="https://www.linkedin.com/in/jude-wakim-4b3a471a7/">IT Professional</a></h1>
+<h1>Hi, I'm Jude! <br/><a href="https://github.com/Judewakim">AWS & Azure Cloud</a>, <a href="https://www.linkedin.com/in/jude-wakim-4b3a471a7/">IT Professional</a></h1>
 
 <h2>☁️ Cloud Computing Projects:</h2>
 
